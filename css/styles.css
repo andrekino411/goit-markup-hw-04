@@ -367,6 +367,21 @@ display: block;
    border: 1px solid #8e8f99;
    border-radius: 4px;
 }
+.afive:hover,
+.afive:focus {
+  color: #404bbf;
+  border-color: #404bbf;
+}
+
+.afive,
+.afive {
+  fill: currentColor;
+}
+
+.afive:hover,
+.afive:focus {
+  fill: currentColor;
+}
 /* FOOTER */
 .footer {
    background-color: var(--logotwo);
