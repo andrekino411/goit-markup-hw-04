@@ -413,6 +413,42 @@ display: block;
    line-height: 1.5;
    font-size: 16px;
 }
+.divtwofooter {
+   margin-right: 120px 
+}
+.pfootertwo {
+   font-weight: 500;
+   font-size: 16px;
+   line-height: 1.5;
+   letter-spacing: 0.02em;
+   color: #FFFFFF;
+   margin-bottom: 16px;
+
+
+}
+.ulfootertwo {
+   display: flex;
+   gap: 16px;
+
+}
+.lifootertwo {
+   width: 40px;
+   height: 40px;
+   
+}
+.afootertwo {
+   width: 100%;
+   height: 100%;
+   background-color: #4d5ae5;
+   border-radius: 50%;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+.afootertwo:hover,
+.afootertwo:focus {
+   background-color: #31d0aa;
+}
 
 /* PORTFOLIO */
 .body {
