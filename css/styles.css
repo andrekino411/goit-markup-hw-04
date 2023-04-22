@@ -383,6 +383,10 @@ display: block;
   fill: currentColor;
 }
 /* FOOTER */
+.divfooter {
+   display: flex;
+   align-items: baseline;
+}
 .footer {
    background-color: var(--logotwo);
    padding-top: 100px;
