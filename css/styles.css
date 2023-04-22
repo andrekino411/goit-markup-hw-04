@@ -263,9 +263,7 @@ padding-bottom: 120px;
    border-bottom-left-radius: 4px;
    padding: 32px 0;
 }
-.social {
-   padding: 32px 0;
-}
+
 .htwosecfour {
    font-size: 36px;
    line-height: 1.1;
@@ -332,6 +330,7 @@ display: block;
    letter-spacing: 0.02em;
    color: var(--addone);
    text-align: center;
+   margin-bottom: 8px;
 }
 .secfive {
    padding-top: 120px;
@@ -430,6 +429,7 @@ display: block;
 .ulfootertwo {
    display: flex;
    gap: 16px;
+   list-style: none;
 
 }
 .lifootertwo {
