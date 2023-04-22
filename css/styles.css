@@ -300,11 +300,7 @@ padding-bottom: 120px;
    background-color: #4d5ae5;
    border-radius: 50%;
 }
-.icon {
-
-}
-.link_icon:hover,
-.link_icon:focus {
+.link_icon:hover, .link_icon:focus {
   background-color: #404bbf;
 }
 .link_icon .icon {
