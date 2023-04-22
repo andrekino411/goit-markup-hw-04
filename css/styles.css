@@ -391,6 +391,7 @@ display: block;
    background-color: var(--logotwo);
    padding-top: 100px;
    padding-bottom: 100px;
+   
 }
 .footerlogoone {
    font-family: "Raleway", sans-serif;
@@ -444,10 +445,14 @@ display: block;
    display: flex;
    align-items: center;
    justify-content: center;
+   fill:#f4f4fd;
 }
 .afootertwo:hover,
 .afootertwo:focus {
    background-color: #31d0aa;
+}
+.footersocial {
+fill: currentColor;
 }
 
 /* PORTFOLIO */
